@@ -13,5 +13,5 @@ This system provides long-term memory capabilities for Large Language Models (LL
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/llm-long-term-memory.git
+   git clone https://github.com/prabhat51/llm-long-term-memory.git
    cd llm-long-term-memory
